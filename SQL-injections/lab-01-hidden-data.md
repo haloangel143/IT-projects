@@ -3,7 +3,7 @@
 **Target:** DVWA — SQL Injection module
 **Security Level:** Low
 **Environment:** Local (localhost)
-**Author:** Anyagu Chisom ([haloangle143](https://github.com/haloangle143))
+**Author:** Anyagu Chisom ([haloangel143](https://github.com/haloangel143))
 **Date:** October 2026
 
 ---
